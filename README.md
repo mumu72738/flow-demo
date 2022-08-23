@@ -1,6 +1,6 @@
 # flow-demo
 
-本插件是基于Netless App Template vue的流程图协作插件
+本插件是基于Netless App Template vue的流程图协作插件.
 
 
 ## 快速开始
